@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "product": "Widget A",
+        "price": 19.99,
+        "in_stock": true,
+        "tags": ["sale", "popular"]
+    },
+    {
+        "id": 2,
+        "product": "Widget B",
+        "price": 34.50,
+        "in_stock": false,
+        "tags": ["new"]
+    },
+    {
+        "id": 3,
+        "product": "Widget C",
+        "price": 9.99,
+        "in_stock": true,
+        "tags": ["sale", "clearance"]
+    }
+]
